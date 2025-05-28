@@ -17,5 +17,5 @@ function sumToN(n) {
 
      return sum;
  
-}
+} 
 sumToN(5);
