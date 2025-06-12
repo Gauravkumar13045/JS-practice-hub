@@ -1,4 +1,4 @@
-// 5. Write a function to count the number of properties in an object.
+// 30. Write a function to count the number of properties in an object.
 
 const person = {
     name: "Gaurav",
